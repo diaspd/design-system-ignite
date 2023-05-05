@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@ignite-ui-/tokens",
   "author": "pedro_dias",
   "version": "1.0.0",
   "description": "",
@@ -14,8 +14,8 @@
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@ignite-ui-/ts-config": "*",
+    "@ignite-ui-/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
