@@ -1,7 +1,7 @@
 {
   "name": "@ignite-ui-/tokens",
   "author": "pedro_dias",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
