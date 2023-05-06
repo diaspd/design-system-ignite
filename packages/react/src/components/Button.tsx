@@ -41,6 +41,10 @@ export const Button = styled('button', {
         '&:disabled': {
           backgroundColor: '$gray200',
         },
+
+        '&:focus': {
+          boxShadow: '0 0 0 2px $colors$gray100',
+        },
       },
 
       secondary: {
