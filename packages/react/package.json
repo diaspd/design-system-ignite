@@ -1,7 +1,7 @@
 {
   "name": "@ignite-ui-/react",
   "author": "pedro_dias",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
