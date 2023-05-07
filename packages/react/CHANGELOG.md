@@ -1,5 +1,11 @@
 # @ignite-ui-/react
 
+## 3.0.0
+
+### Major Changes
+
+- 0323d67: Add new components
+
 ## 2.0.1
 
 ### Patch Changes
