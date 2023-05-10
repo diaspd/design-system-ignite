@@ -64,6 +64,7 @@ This project was developed with the following technologies:
 - Stitches
 </b>
 
+</br>
 
 ## Components
 
