@@ -7,9 +7,9 @@
 <h2 align="center">
   NPM: 
   <table align="center">
-    <tr> <a href="https://www.npmjs.com/package/@ignite-ui-/react" target="_blank">react: @ignite-ui-/react</a> </tr> &nbsp;
-    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/tokens" target="_blank">tokens: @ignite-ui-/tokens</a></tr> &nbsp;
-    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/docs" target="_blank">docs: @ignite-ui-/docs</a></tr>
+    <tr> <a href="https://www.npmjs.com/package/@ignite-ui-/react" target="_blank">@ignite-ui-/react</a> </tr> &nbsp;
+    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/tokens" target="_blank">@ignite-ui-/tokens</a></tr> &nbsp;
+    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/docs" target="_blank">@ignite-ui-/docs</a></tr>
   </table>
 </h2>
 
