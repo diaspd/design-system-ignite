@@ -2,6 +2,16 @@
   <h1> Design System </h1>
 </div> 
 
+<h2 align="center">Link to components: <a href="https://diaspd.github.io/design-system-ignite" target="_blank">Design System Ignite</a> </h2>
+
+<h2 align="center">Link to NPM: 
+  <table align="center">
+    <tr> <a href="https://www.npmjs.com/package/@ignite-ui-/react" target="_blank">react: @ignite-ui-/react</a> </tr> &nbsp;
+    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/tokens" target="_blank">tokens: @ignite-ui-/tokens</a></tr> &nbsp;
+    <tr valign="top"><a href="https://www.npmjs.com/package/@ignite-ui-/docs" target="_blank">docs: @ignite-ui-/docs</a></tr>
+  </table>
+</h2>
+
 <div align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
