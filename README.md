@@ -62,6 +62,7 @@ This project was developed with the following technologies:
 - TypeScript
 - React
 - Stitches
+- Turbopack
 </b>
 
 </br>
