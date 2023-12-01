@@ -84,7 +84,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A Design System of another project Ignite Call. Constructed on this project: colors, spaces, components and more. Using Storybook to docmentation, react as base app, turbo repo, mono repo and automations for publishing.
+💰 A Design System of another project Ignite Call. Constructed on this project: colors, spaces, components and more. Using Storybook to docmentation, react as base app, turbo repo, mono repo and automations for deploy.
 
 <br></br>
 
